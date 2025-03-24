@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos Entity Framework C#", "Fundamentos Entity Framework C#.csproj", "{754F1907-0A92-86E3-28B1-0F2A12E52FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754F1907-0A92-86E3-28B1-0F2A12E52FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754F1907-0A92-86E3-28B1-0F2A12E52FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754F1907-0A92-86E3-28B1-0F2A12E52FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754F1907-0A92-86E3-28B1-0F2A12E52FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105D97F8-904A-400E-BAC2-D98B31D03144}
+	EndGlobalSection
+EndGlobal
