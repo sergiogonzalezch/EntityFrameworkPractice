@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSpn6ESkqfA=",
+  "dgSpecHash": "jkKbpRH10K0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCG\\Documents\\Cursos\\Platzi\\BackendC#.NET\\Fundamentos Entity Framework C#\\Fundamentos Entity Framework C#.csproj",
+  "projectFilePath": "C:\\Users\\PCG\\Documents\\Cursos\\Platzi\\BackendC#.NET\\5-Fundamentos Entity Framework C#\\Fundamentos Entity Framework C#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCG\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\PCG\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
