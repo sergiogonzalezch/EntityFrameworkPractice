@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fundamentos Entity Framework C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1d0a911db6886fa00f63ae193b18e1820fb246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82f4d7f2f84664193bd47aeb04bec28adf300fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fundamentos Entity Framework C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fundamentos Entity Framework C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
